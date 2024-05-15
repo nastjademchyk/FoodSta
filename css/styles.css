@@ -1,0 +1,172 @@
+body{
+font-family: "Roboto", sans-serif;
+}
+ul{
+    list-style-type:none; 
+}
+.nav-item-green{
+    font-weight: 700;
+        font-size: 14px;
+        text-decoration: underline;
+        text-decoration-skip-ink: none;
+        color: #bbf330;
+        text-decoration: none;
+}
+.nav-item{
+    font-weight: 400;
+        font-size: 14px;
+        color: #2c2c2c;
+        text-decoration: none;
+}
+.btn-green {
+font-weight: 500;
+    font-size: 13px;
+    line-height: 1.5;
+    text-align: right;
+    color: #2c2c2c;
+    background: #bbf330;
+}
+.section-one-text {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        color: #2c2c2c;
+}
+.section-two{
+    background: #ffe550;
+}
+.section-two-header{
+    font-weight: 700;
+        font-size: 42px;
+        line-height: 1.2;
+        color: #2c2c2c;
+}
+.section-two-text{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        color: #2c2c2c;
+}
+.benefit-header{
+    font-weight: 700;
+        font-size: 18px;
+        line-height: 1.4;
+        color: #2c2c2c;
+}
+.benefit-text{
+    font-weight: 400;
+        font-size: 14px;
+        line-height: 1.5;
+        color: #2c2c2c;
+}
+.section-two-btn{
+    font-weight: 500;
+        font-size: 13px;
+        line-height: 1.5;
+        color: #2c2c2c;
+        background: #fff;
+        border: 2px solid #7eb101;
+        border-radius: 30px;
+        padding: 10px 20px;
+        width: 106px;
+        height: 40px;
+}
+.section-three-header{
+    font-weight: 700;
+        font-size: 42px;
+        text-align: center;
+        color: #2c2c2c;
+}
+.section-three-text{
+    font-weight: 400;
+        font-size: 16px;
+        text-align: center;
+        color: #2c2c2c;
+}
+.section-four{
+    background: #ffe550;
+}
+.section-four-header{
+    font-weight: 700;
+        font-size: 42px;
+        color: #2c2c2c;
+}
+.section-four-text{
+    font-weight: 400;
+        font-size: 16px;
+        color: #2c2c2c;
+}
+
+.review-item{
+        background: #fefefe;
+}
+
+.review{
+    font-weight: 700;
+        font-size: 18px;
+        color: #2c2c2c;
+}
+.reviewer-name{
+    font-weight: 500;
+        font-size: 14px;
+        line-height: 1.5;
+        color: #2c2c2c;
+}
+.additional-text{
+    font-weight: 400;
+        font-size: 14px;
+        line-height: 1.5;
+        color: #2c2c2c;
+}
+.section-five-header{
+    font-weight: 700;
+        font-size: 42px;
+        line-height: 1.2;
+        color: #2c2c2c;
+}
+.sectin-five-text{
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        color: #2c2c2c;
+}
+.footer-text{
+    font-weight: 500;
+        font-size: 14px;
+        line-height: 1.5;
+        color: #2c2c2c;
+}
+.footer-btn{
+    font-weight: 500;
+        font-size: 13px;
+        line-height: 1.5;
+        color: #2c2c2c;
+        border: 0.85px solid #7eb101;
+            border-radius: 30px;
+            padding: 10px 20px;
+            width: 103px;
+            height: 42px;
+            background: #fff;
+}
+.policy-info{
+    font-weight: 400;
+        font-size: 12px;
+        color: #2c2c2c;
+}
+.policy-info-accent{
+    text-decoration: underline;
+        text-decoration-skip-ink: none;
+        color: #7eb101;
+}
+.footer-list-green-link{
+    font-weight: 400;
+        font-size: 12px;
+        text-decoration: underline;
+        text-decoration-skip-ink: none;
+        color: #7eb101;
+}
+.footer-info{
+    font-weight: 400;
+        font-size: 12px;
+        color: #2c2c2c;
+}
